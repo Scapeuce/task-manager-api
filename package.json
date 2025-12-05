@@ -4,7 +4,7 @@
   "description": "",
   "main": "mongodb.js",
   "dependencies": {
-    "@sendgrid/mail": "^6.5.0",
+    "@sendgrid/mail": "^8.1.6",
     "bcryptjs": "^2.4.3",
     "env-cmd": "^10.0.1",
     "express": "^4.17.1",
